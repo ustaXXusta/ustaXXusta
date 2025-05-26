@@ -28,6 +28,6 @@ Welcome to my GitHub space! I like building clean and functional web application
 
 ## 📫 Contact Me
 
-- 📧![Mail Me](dervismehmetusta@gmail.com)
-- 💼![Linkedin](https://www.linkedin.com/in/mehmet-usta-ba0a78261/)
-- 💬 Discord: [khazadin]
+- 📧 Mail: dervismehmetusta@gmail.com
+- 💼 Linkedin: https://www.linkedin.com/in/mehmet-usta-ba0a78261/
+- 💬 Discord: khazadin
