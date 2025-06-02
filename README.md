@@ -28,5 +28,5 @@ Welcome to my GitHub space! I like building clean and functional web application
 ---
 
 ## 📫 Contact Me
-## 💬 Discord: khazadin
+- 💬 Discord: khazadin
 
