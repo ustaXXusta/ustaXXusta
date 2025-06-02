@@ -1,4 +1,4 @@
-# ☁️ Hi, I'm Derviş Mehmet Usta
+# ☁️ Hi, I'm Mehmet
 
 **Full Stack Developer**  
 Welcome to my GitHub space! I like building clean and functional web applications.
