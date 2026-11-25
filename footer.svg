@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110">
+  <defs>
+    <filter id="goo" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="16" result="b"/>
+      <feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 28 -11"/>
+    </filter>
+    <linearGradient id="lava" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#2ea043"/>
+      <stop offset="1" stop-color="#14532d"/>
+    </linearGradient>
+    <clipPath id="shape"><polygon points="0,40 1200,0 1200,110 0,110"/></clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <rect width="1200" height="110" fill="#000000"/>
+    <g filter="url(#goo)" fill="url(#lava)" opacity="0.9">
+      <rect x="0" y="95" width="1200" height="45"/>
+      <circle cx="19" cy="160" r="35"><animate attributeName="cy" values="195;-85" dur="12.8s" begin="-6.1s" repeatCount="indefinite"/><animate attributeName="cx" values="19;52;-13;19" dur="10.2s" begin="-6.1s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="35;44;30;35" dur="8.2s" repeatCount="indefinite"/></circle>
+      <circle cx="163" cy="160" r="31"><animate attributeName="cy" values="191;-81" dur="12.0s" begin="-2.8s" repeatCount="indefinite"/><animate attributeName="cx" values="163;188;138;163" dur="9.6s" begin="-2.8s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="31;39;27;31" dur="6.5s" repeatCount="indefinite"/></circle>
+      <circle cx="238" cy="160" r="22"><animate attributeName="cy" values="182;-72" dur="13.8s" begin="-3.2s" repeatCount="indefinite"/><animate attributeName="cx" values="238;271;204;238" dur="11.0s" begin="-3.2s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="22;27;18;22" dur="5.2s" repeatCount="indefinite"/></circle>
+      <circle cx="363" cy="160" r="36"><animate attributeName="cy" values="196;-86" dur="14.3s" begin="-8.8s" repeatCount="indefinite"/><animate attributeName="cx" values="363;389;337;363" dur="11.4s" begin="-8.8s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="36;45;31;36" dur="6.3s" repeatCount="indefinite"/></circle>
+      <circle cx="415" cy="160" r="23"><animate attributeName="cy" values="183;-73" dur="14.7s" begin="-5.4s" repeatCount="indefinite"/><animate attributeName="cx" values="415;446;385;415" dur="11.8s" begin="-5.4s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="23;28;19;23" dur="8.3s" repeatCount="indefinite"/></circle>
+      <circle cx="478" cy="160" r="40"><animate attributeName="cy" values="200;-90" dur="11.7s" begin="-6.5s" repeatCount="indefinite"/><animate attributeName="cx" values="478;515;441;478" dur="9.4s" begin="-6.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="40;51;34;40" dur="6.9s" repeatCount="indefinite"/></circle>
+      <circle cx="575" cy="160" r="21"><animate attributeName="cy" values="181;-71" dur="14.2s" begin="-3.3s" repeatCount="indefinite"/><animate attributeName="cx" values="575;627;523;575" dur="11.4s" begin="-3.3s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="21;26;18;21" dur="5.8s" repeatCount="indefinite"/></circle>
+      <circle cx="730" cy="160" r="40"><animate attributeName="cy" values="200;-90" dur="13.5s" begin="-10.3s" repeatCount="indefinite"/><animate attributeName="cx" values="730;775;684;730" dur="10.8s" begin="-10.3s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="40;50;34;40" dur="7.9s" repeatCount="indefinite"/></circle>
+      <circle cx="754" cy="160" r="30"><animate attributeName="cy" values="190;-80" dur="14.0s" begin="-2.8s" repeatCount="indefinite"/><animate attributeName="cx" values="754;812;697;754" dur="11.2s" begin="-2.8s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="30;38;26;30" dur="8.6s" repeatCount="indefinite"/></circle>
+      <circle cx="870" cy="160" r="28"><animate attributeName="cy" values="188;-78" dur="11.7s" begin="-4.5s" repeatCount="indefinite"/><animate attributeName="cx" values="870;930;810;870" dur="9.4s" begin="-4.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="28;35;24;28" dur="6.5s" repeatCount="indefinite"/></circle>
+      <circle cx="931" cy="160" r="22"><animate attributeName="cy" values="182;-72" dur="13.3s" begin="-13.2s" repeatCount="indefinite"/><animate attributeName="cx" values="931;974;889;931" dur="10.6s" begin="-13.2s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="22;28;19;22" dur="7.0s" repeatCount="indefinite"/></circle>
+      <circle cx="1066" cy="160" r="36"><animate attributeName="cy" values="196;-86" dur="10.3s" begin="-6.3s" repeatCount="indefinite"/><animate attributeName="cx" values="1066;1110;1021;1066" dur="8.3s" begin="-6.3s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="36;46;31;36" dur="7.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1128" cy="160" r="24"><animate attributeName="cy" values="184;-74" dur="11.1s" begin="-10.3s" repeatCount="indefinite"/><animate attributeName="cx" values="1128;1165;1091;1128" dur="8.9s" begin="-10.3s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="24;30;20;24" dur="7.4s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+  <polyline points="0,40 1200,0" fill="none" stroke="#2ea043" stroke-width="3"/>
+</svg>
