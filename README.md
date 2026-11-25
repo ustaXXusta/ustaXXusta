@@ -59,9 +59,7 @@ const me = {
 | [**Hammerspoon Code Generator**](https://github.com/ustaXXusta/Hammerspoon-Code-Generator) · [live](https://ustaxxusta.github.io/Hammerspoon-Code-Generator/) | `JS` `Lua` | Generates Lua configs for macOS window management & hotkeys |
 | [**Sairo Voice Changer**](https://github.com/ustaXXusta/sairo-voice-changer) | `Python` `librosa` `Tkinter` | Record & reshape voice — pitch, formant, tempo, distortion |
 | [**Huffman Image Compressor**](https://github.com/ustaXXusta/Image-Compressor-Huffman-Tree) | `Python` `OpenCV` | Image compression with scaling + quantization + Huffman coding, CLI tree visualizer |
-| [**Bulut'un Macerası**](https://github.com/ustaXXusta/kubrosum) | `HTML` `JS` | Mobile-friendly browser adventure game |
 | [**Pitch Reservation**](https://github.com/ustaXXusta/pitch-reservation-site) · [live](https://ustaxxusta.github.io/pitch-reservation-site/) | `Bootstrap` `JS` | Football pitch booking site |
-| [**Royal Home Investment**](https://github.com/ustaXXusta/Royal-Home-Investment) · [live](https://ustaxxusta.github.io/Royal-Home-Investment/) | `HTML` `CSS` `JS` | Real-estate landing page (freelance) |
 | [**EU4 · Eyaletin War**](https://github.com/ustaXXusta/EU4-Ottomans-EyaletinWar) · [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3492212054) | `Paradox script` | One-click event to call every Ottoman eyalet into war |
 
 <details>
