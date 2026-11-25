@@ -1,90 +1,40 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:14532d&height=190&section=header&text=ustaXXusta&fontSize=50&fontColor=ffffff&fontAlign=30&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%96%B8%20macOS%20Tool%20Builder%20%E2%96%B8%20AI%20Explorer&descSize=16&descAlign=30&descAlignY=60&rotate=0" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ustaXXusta">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=2EA043&center=true&vCenter=true&width=640&lines=%3E+I+build+clean%2C+functional+web+apps;%3E+Native+macOS+tools+with+Swift+%26+SwiftUI;%3E+Python+scripts+that+save+you+hours;%3E+Browser+games+%26+game+mods+for+fun;%3E+Currently+exploring+AI%2FML" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ustaXXusta&style=for-the-badge&color=14532d&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ustaXXusta?style=for-the-badge&color=14532d&labelColor=000000&label=FOLLOWERS" alt="followers" />
-  <a href="https://discord.com/users/khazadin"><img src="https://img.shields.io/badge/Discord-khazadin-14532d?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000" alt="Discord" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=14532d&height=3" width="100%" />
-
-### ▸ About me
-
-```ts
-const me = {
-  role:      "Full Stack Developer",
-  builds:    ["web apps", "macOS utilities", "Python CLI tools", "browser games", "game mods"],
-  learning:  "AI / ML through hands-on projects",
-  vibe:      "if I do it twice, I automate it",
-  contact:   "Discord → khazadin  (mail: please don't)",
-};
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=14532d&height=3" width="100%" />
-
-### ▸ Tech stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,electron&perline=6&theme=dark" alt="Web" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,opencv,swift,lua,md&perline=6&theme=dark" alt="Languages" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple,linux&perline=6&theme=dark" alt="Tools" />
-</p>
-
-| Area | What I use it for |
-|---|---|
-| **Web** | HTML · CSS · JavaScript · Bootstrap · GitHub Pages — landing pages, booking sites, small web games |
-| **Desktop** | Electron (cross-platform Kanban app) · Swift + SwiftUI / AppKit (native macOS cleaner) |
-| **Python** | OpenCV · NumPy · SciPy · librosa · Praat/parselmouth · Tkinter · FFmpeg · PyPDF |
-| **Automation** | Lua (Hammerspoon) · Makefiles · CLI tooling |
-| **Games & mods** | Browser games in vanilla JS · Europa Universalis IV modding (Paradox script) |
-| **Algorithms** | Huffman coding, quantization, image compression, probability simulations |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=14532d&height=3" width="100%" />
-
-### ▸ Featured projects
-
-| Project | Stack | What it does |
-|---|---|---|
-| [**Ruan Cleaner**](https://github.com/ustaXXusta/Ruan_Cleaner) | `Swift` `SwiftUI` | Matrix-themed macOS cleaner — dry-run previews, SIP checks, caches/logs/duplicates cleanup |
-| [**Kanban App**](https://github.com/ustaXXusta/Kanban-Application) · [web demo](https://ustaxxusta.github.io/Kanban-Web/) | `Electron` `JS` | Drag-and-drop desktop task board with installer packaging |
-| [**Hammerspoon Code Generator**](https://github.com/ustaXXusta/Hammerspoon-Code-Generator) · [live](https://ustaxxusta.github.io/Hammerspoon-Code-Generator/) | `JS` `Lua` | Generates Lua configs for macOS window management & hotkeys |
-| [**Sairo Voice Changer**](https://github.com/ustaXXusta/sairo-voice-changer) | `Python` `librosa` `Tkinter` | Record & reshape voice — pitch, formant, tempo, distortion |
-| [**Huffman Image Compressor**](https://github.com/ustaXXusta/Image-Compressor-Huffman-Tree) | `Python` `OpenCV` | Image compression with scaling + quantization + Huffman coding, CLI tree visualizer |
-| [**Bulut'un Macerası**](https://github.com/ustaXXusta/kubrosum) | `HTML` `JS` | Mobile-friendly browser adventure game |
-| [**Pitch Reservation**](https://github.com/ustaXXusta/pitch-reservation-site) · [live](https://ustaxxusta.github.io/pitch-reservation-site/) | `Bootstrap` `JS` | Football pitch booking site |
-| [**Royal Home Investment**](https://github.com/ustaXXusta/Royal-Home-Investment) · [live](https://ustaxxusta.github.io/Royal-Home-Investment/) | `HTML` `CSS` `JS` | Real-estate landing page (freelance) |
-| [**EU4 · Eyaletin War**](https://github.com/ustaXXusta/EU4-Ottomans-EyaletinWar) · [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3492212054) | `Paradox script` | One-click event to call every Ottoman eyalet into war |
-
-<details>
-<summary><b>▸ Small utilities</b></summary>
-
-- [**MKV → MP4**](https://github.com/ustaXXusta/MKVtoMP4) — lossless remux with FFmpeg
-- [**PDF Page Calculator**](https://github.com/ustaXXusta/PDF_Page_Calculator) — total pages across every PDF in a folder
-- [**File Counter**](https://github.com/ustaXXusta/File_Counter) — counts all files in a folder tree, hidden ones included
-- [**Dice Probability Calculator**](https://github.com/ustaXXusta/Experimental-Probability-Calculator) · [live](https://ustaxxusta.github.io/Experimental-Probability-Calculator/)
-- [**Guess My Number**](https://github.com/ustaXXusta/GuessMyNumber) · [live](https://ustaxxusta.github.io/GuessMyNumber/) — glassmorphism mini-game
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=14532d&height=3" width="100%" />
-
-### ▸ Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ustaXXusta&hide_border=false&border_radius=0&background=000000&border=14532D&stroke=14532D&ring=2EA043&fire=2EA043&currStreakNum=FFFFFF&currStreakLabel=2EA043&sideNums=FFFFFF&sideLabels=2EA043&dates=8B949E" alt="GitHub streak" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ustaXXusta&bg_color=000000&color=2EA043&title_color=2EA043&line=2EA043&point=FFFFFF&area=true&area_color=14532D&radius=0&hide_border=false&border_color=14532D" alt="Contribution graph" width="98%" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:14532d,100:000000&height=90&section=footer&reversal=true" width="100%" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+  <defs>
+    <filter id="goo" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="16" result="b"/>
+      <feColorMatrix in="b" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 28 -11"/>
+    </filter>
+    <linearGradient id="lava" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2ea043"/>
+      <stop offset="1" stop-color="#14532d"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000000"/>
+      <stop offset="1" stop-color="#03140a"/>
+    </linearGradient>
+    <clipPath id="shape"><polygon points="0,0 1200,0 1200,150 0,220"/></clipPath>
+  </defs>
+  <g clip-path="url(#shape)">
+    <rect width="1200" height="220" fill="url(#bg)"/>
+    <g filter="url(#goo)" fill="url(#lava)" opacity="0.9">
+      <rect x="0" y="-30" width="1200" height="45"/>
+      <circle cx="29" cy="-60" r="31"><animate attributeName="cy" values="-91;291" dur="20.5s" begin="-1.5s" repeatCount="indefinite"/><animate attributeName="cx" values="29;73;-15;29" dur="16.4s" begin="-1.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="31;39;26;31" dur="6.5s" repeatCount="indefinite"/></circle>
+      <circle cx="93" cy="-60" r="42"><animate attributeName="cy" values="-102;302" dur="14.4s" begin="-6.2s" repeatCount="indefinite"/><animate attributeName="cx" values="93;121;66;93" dur="11.5s" begin="-6.2s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="42;53;36;42" dur="5.4s" repeatCount="indefinite"/></circle>
+      <circle cx="208" cy="-60" r="52"><animate attributeName="cy" values="-112;312" dur="15.2s" begin="-3.4s" repeatCount="indefinite"/><animate attributeName="cx" values="208;255;161;208" dur="12.2s" begin="-3.4s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="52;66;45;52" dur="8.8s" repeatCount="indefinite"/></circle>
+      <circle cx="306" cy="-60" r="39"><animate attributeName="cy" values="-99;299" dur="23.8s" begin="-1.1s" repeatCount="indefinite"/><animate attributeName="cx" values="306;361;251;306" dur="19.0s" begin="-1.1s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="39;48;33;39" dur="6.2s" repeatCount="indefinite"/></circle>
+      <circle cx="357" cy="-60" r="30"><animate attributeName="cy" values="-90;290" dur="17.1s" begin="-13.9s" repeatCount="indefinite"/><animate attributeName="cx" values="357;389;326;357" dur="13.7s" begin="-13.9s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="30;37;25;30" dur="7.3s" repeatCount="indefinite"/></circle>
+      <circle cx="483" cy="-60" r="38"><animate attributeName="cy" values="-98;298" dur="19.5s" begin="-1.2s" repeatCount="indefinite"/><animate attributeName="cx" values="483;510;455;483" dur="15.6s" begin="-1.2s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="38;47;32;38" dur="5.8s" repeatCount="indefinite"/></circle>
+      <circle cx="572" cy="-60" r="40"><animate attributeName="cy" values="-100;300" dur="17.1s" begin="-10.0s" repeatCount="indefinite"/><animate attributeName="cx" values="572;612;531;572" dur="13.7s" begin="-10.0s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="40;50;34;40" dur="6.2s" repeatCount="indefinite"/></circle>
+      <circle cx="666" cy="-60" r="48"><animate attributeName="cy" values="-108;308" dur="16.4s" begin="-9.4s" repeatCount="indefinite"/><animate attributeName="cx" values="666;710;623;666" dur="13.2s" begin="-9.4s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="48;60;41;48" dur="8.5s" repeatCount="indefinite"/></circle>
+      <circle cx="747" cy="-60" r="35"><animate attributeName="cy" values="-95;295" dur="23.8s" begin="-2.8s" repeatCount="indefinite"/><animate attributeName="cx" values="747;787;707;747" dur="19.0s" begin="-2.8s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="35;44;30;35" dur="8.0s" repeatCount="indefinite"/></circle>
+      <circle cx="786" cy="-60" r="42"><animate attributeName="cy" values="-102;302" dur="14.4s" begin="-9.6s" repeatCount="indefinite"/><animate attributeName="cx" values="786;838;735;786" dur="11.5s" begin="-9.6s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="42;52;35;42" dur="7.3s" repeatCount="indefinite"/></circle>
+      <circle cx="930" cy="-60" r="36"><animate attributeName="cy" values="-96;296" dur="21.0s" begin="-12.5s" repeatCount="indefinite"/><animate attributeName="cx" values="930;975;885;930" dur="16.8s" begin="-12.5s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="36;45;31;36" dur="6.8s" repeatCount="indefinite"/></circle>
+      <circle cx="1013" cy="-60" r="56"><animate attributeName="cy" values="-116;316" dur="18.7s" begin="-12.4s" repeatCount="indefinite"/><animate attributeName="cx" values="1013;1040;986;1013" dur="15.0s" begin="-12.4s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="56;70;48;56" dur="7.8s" repeatCount="indefinite"/></circle>
+      <circle cx="1083" cy="-60" r="58"><animate attributeName="cy" values="-118;318" dur="22.2s" begin="-6.3s" repeatCount="indefinite"/><animate attributeName="cx" values="1083;1122;1045;1083" dur="17.8s" begin="-6.3s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="58;72;49;58" dur="7.7s" repeatCount="indefinite"/></circle>
+      <circle cx="1119" cy="-60" r="41"><animate attributeName="cy" values="-101;301" dur="15.7s" begin="-1.8s" repeatCount="indefinite"/><animate attributeName="cx" values="1119;1146;1092;1119" dur="12.5s" begin="-1.8s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1;.45 0 .55 1"/><animate attributeName="r" values="41;51;35;41" dur="8.1s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+  <polyline points="1200,150 0,220" fill="none" stroke="#2ea043" stroke-width="3"/>
+  <text x="360" y="92" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="50" font-weight="800" fill="#ffffff" stroke="#000000" stroke-width="6" paint-order="stroke" letter-spacing="1">ustaXXusta</text>
+  <text x="360" y="132" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="600" fill="#ffffff" stroke="#000000" stroke-width="4" paint-order="stroke">Full Stack Developer ▸ macOS Tool Builder ▸ AI Explorer</text>
+</svg>
